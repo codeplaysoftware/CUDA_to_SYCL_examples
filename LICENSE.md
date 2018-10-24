@@ -15,12 +15,4 @@
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
-   limitations under the License.
-
-   The files samples/gaussian_blur/stb_image.h and stb_image_write.h are
-   in the Public Domain. Originally authored by Sean Barrett.
-   https://github.com/nothings/stb
-
-   The file samples/smart_pointer/stack_allocator.hpp is (c) Charles Salvia
-   and is available under the MIT License.
-   https://github.com/charles-salvia/charles
+   limitations under the License
